@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorSize\obj\Debug\netcoreapp3.1\CursorSize.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorSize\obj\Debug\netcoreapp3.1\CursorSize.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorSize\obj\Debug\netcoreapp3.1\CursorSize.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorSize\obj\Debug\netcoreapp3.1\CursorSize.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorSize\bin\Debug\netcoreapp3.1\CursorSize.exe
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorSize\bin\Debug\netcoreapp3.1\CursorSize.deps.json
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorSize\bin\Debug\netcoreapp3.1\CursorSize.runtimeconfig.json
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorSize\bin\Debug\netcoreapp3.1\CursorSize.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorSize\bin\Debug\netcoreapp3.1\CursorSize.dll
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorSize\bin\Debug\netcoreapp3.1\CursorSize.pdb
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorSize\obj\Debug\netcoreapp3.1\CursorSize.dll
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorSize\obj\Debug\netcoreapp3.1\CursorSize.pdb
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorSize\obj\Debug\netcoreapp3.1\CursorSize.genruntimeconfig.cache
